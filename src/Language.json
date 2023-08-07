@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "language": "English",
+    "promp": "Select Language",
+    "flag": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
+    "image": "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "language": "Japanese",
+    "promp": "言語を選択する",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Germany",
+    "language": "German",
+    "promp": "Sprache auswählen",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Brazil",
+    "language": "Portuguese",
+    "promp": "Selecione O Idioma",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "language": "English",
+    "promp": "Select Language",
+    "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIeFWfLcrICoh_9qTcBq-3cCzwKSehN6Od4cbtSkYi-HXhniQWu9PQ30&s=10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIeFWfLcrICoh_9qTcBq-3cCzwKSehN6Od4cbtSkYi-HXhniQWu9PQ30&s=10"
+  },
+  {
+    "id": 6,
+    "name": "France",
+    "language": "French",
+    "promp": "Choisir la Langue",
+    "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygdB4XmdQb3OSkmHQYgO7kLRzknFwR_jn8mpwAAYSFpZlLHY_Fgr-9G8ISwU&s=10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygdB4XmdQb3OSkmHQYgO7kLRzknFwR_jn8mpwAAYSFpZlLHY_Fgr-9G8ISwU&s=10"
+  },
+  {
+    "id": 7,
+    "name": "Russia",
+    "language": "Russian",
+    "promp": "выберите язык",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png"
+  }
+]
